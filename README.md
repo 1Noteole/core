@@ -1,23 +1,60 @@
-# 1note
+<div align="center">
+	<h1 align="center">Onenoteole Wassurname</h1>
+	<img src="https://avatars.githubusercontent.com/u/125817706" width="230" alt="Onenoteole Wassurname">
+	<p align="center">🌟Поставь звезду, если нравится🌟</p>
+</div>
+
+
 
 <details open>
-    <summary><b>✨2023</b></summary><br/>
+    <summary><b>📁2023</b></summary><br/>
 
-| **ID** | **REPO** | **TITLE** | **PLATFORM** | **OWNER** |
-|:------:|:--------:|:---------|:------------:|:---------:|
-| `id8`    | [repo](https://github.com/IsFilimonov/1N_2023_yandex_algos-practice-3)     | Тренировки по алгоритмам 3.0     | Яндекс       | [Илья Филимонов](https://github.com/IsFilimonov)     |
+| **ID** |                                **REPO**                                | **TYPE** | **TITLE**                    | **PLATFORM** |                    **OWNER**                     |
+|:------:|:----------------------------------------------------------------------:|:--------:|:---------------------------- |:------------:|:------------------------------------------------:|
+| `id8`  | [repo](https://github.com/IsFilimonov/1N_2023_yandex_algos-practice-3) |    CR    | Тренировки по алгоритмам 3.0 |    Яндекс    | [Илья Филимонов](https://github.com/IsFilimonov) |
 
 </details>
 
-<details open>
-    <summary><b>✨2022</b></summary><br/>
 
-| **ID** | **REPO** | **TITLE** | **PLATFORM** | **OWNER** |
-|:------:|:--------:|:---------|:------------:|:---------:|
-| `id6`    | repo   | Title     | Platform     | [Илья Филимонов](https://github.com/IsFilimonov)     |
-| `id7`    | repo   | Title     | Platform     | [Илья Филимонов](https://github.com/IsFilimonov)     |
+<details>
+    <summary><b>📁2022 (2)</b></summary><br/>
+
+| **ID** | **REPO** | **TYPE** | **TITLE** | **PLATFORM** |                    **OWNER**                     |
+|:------:|:--------:|:--------:|:--------- |:------------:|:------------------------------------------------:|
+| `id6`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
+| `id7`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
 
 </details>
+
+
+<details>
+    <summary><b>📁2021 (4)</b></summary><br/>
+
+| **ID** | **REPO** | **TYPE** | **TITLE** | **PLATFORM** |                    **OWNER**                     |
+|:------:|:--------:|:--------:|:--------- |:------------:|:------------------------------------------------:|
+| `id2`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
+| `id3`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
+| `id4`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
+| `id5`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
+
+</details>
+
+<details>
+    <summary><b>📁2019 (1)</b></summary><br/>
+
+| **ID** | **REPO** | **TYPE** | **TITLE** | **PLATFORM** |                    **OWNER**                     |
+|:------:|:--------:|:--------:|:--------- |:------------:|:------------------------------------------------:|
+| `id1`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
+
+
+</details>
+
+
+## Легенда
+
+- **СR** — course
+- **TT** — tutorial
+
 
 ## Добавление нового подмодуля
 
