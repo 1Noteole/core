@@ -1,3 +1,6 @@
 [submodule "2023/id8"]
 	path = 2023/id8
 	url = https://github.com/IsFilimonov/1N_2023_yandex_algos-practice-3.git
+[submodule "2022/id6"]
+	path = 2022/id6
+	url = https://github.com/IsFilimonov/1N_2022_udacity_cloud-architect-using-microsoft-azure-scholarship-program.git

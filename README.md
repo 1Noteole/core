@@ -4,7 +4,8 @@
 	<p align="center">🌟Поставь звезду, если нравится🌟</p>
 </div>
 
-
+1. `git clone https://example.com/` (`--recursive`, если всё хотите выкачать сразу)
+2. ...
 
 <details open>
     <summary><b>📁2023</b></summary><br/>
@@ -21,8 +22,8 @@
 
 | **ID** | **REPO** | **TYPE** | **TITLE** | **PLATFORM** |                    **OWNER**                     |
 |:------:|:--------:|:--------:|:--------- |:------------:|:------------------------------------------------:|
-| `id6`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
-| `id7`  |   repo   |    CR    | Title     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
+| `id6`  | [repo](https://github.com/IsFilimonov/1N_2022_udacity_cloud-architect-using-microsoft-azure-scholarship-program) | CR | [Microsoft Azure Cloud Architect](https://www.udacity.com/course/cloud-architect-using-microsoft-azure-nanodegree--nd090) | Udacity | [Илья Филимонов](https://github.com/IsFilimonov) |
+| `id7`  |   repo   |    CR    | ToDo     |   Platform   | [Илья Филимонов](https://github.com/IsFilimonov) |
 
 </details>
 
